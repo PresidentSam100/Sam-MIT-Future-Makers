@@ -11,3 +11,15 @@ I learned so much from the Leadership Seminar from David Kong and learned how to
 
 #### Day 3 (July 8th, 2021)
 I was able to hear some challenging experiences that some might face during their lives and learned how to come up with a plan or solution to help accomodate for those challenges and to discuss those solutions with other peers.
+
+#### Day 8 (July 13th, 2021)
+
+I learned about Neural Networks and its bulding blocks and how it relates to the human brain and how it can be used to predict how most humans would try and behave.
+
+#### Day 9 (July 14th, 2021)
+
+I learned about convolutional neural networks and how its used for images since each image is amatrix of pixel values and was able to dive into a topic that I had been unfamiliar with at first.
+
+#### Day 10 (July 15th, 2021)
+
+I learned about the types of biases and considerations for even the most non-biased of AI algorithms because they might favor certain results over another and how we can spot and respond to such biases.
