@@ -2,7 +2,7 @@
 
 - [Responses](#responses)
 
-## Responses
+## Seminar Responses
 #### Day 1 (July 6th, 2021)
 I'm excited to expand my skills in Python and use some AI knowledge to work on a project with my group. I hope to make use of these skills when developing projects for the Create-A-Thon during the summer.
 
@@ -23,3 +23,7 @@ I learned about convolutional neural networks and how its used for images since 
 #### Day 10 (July 15th, 2021)
 
 I learned about the types of biases and considerations for even the most non-biased of AI algorithms because they might favor certain results over another and how we can spot and respond to such biases.
+
+#### Day 15 (July 20th, 2021)
+
+I listened to Daniel Ranallo discuss his view on the importance of Artificial Intelligence and Machine Learning and realized the possibilities and growth of such a field in the future where technology is becoming increasingly important and will guide much of our lives.
