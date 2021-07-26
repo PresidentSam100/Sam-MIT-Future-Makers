@@ -27,3 +27,6 @@ I learned about the types of biases and considerations for even the most non-bia
 #### Day 15 (July 20th, 2021)
 
 I listened to Daniel Ranallo discuss his view on the importance of Artificial Intelligence and Machine Learning and realized the possibilities and growth of such a field in the future where technology is becoming increasingly important and will guide much of our lives.
+
+#### Day 17 (July 22nd, 2021)
+I learned about imaage classification and some of the tools that could be used but also encountered and learned some significant challenges that were possible with image  classification such as the illumination or viewpoint variation that would make it harder.
