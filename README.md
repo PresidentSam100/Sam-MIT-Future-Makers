@@ -30,3 +30,6 @@ I listened to Daniel Ranallo discuss his view on the importance of Artificial In
 
 #### Day 17 (July 22nd, 2021)
 I learned about imaage classification and some of the tools that could be used but also encountered and learned some significant challenges that were possible with image  classification such as the illumination or viewpoint variation that would make it harder.
+
+#### Day 22 (July 27th, 2021)
+I was able to get a grasp on building my profile and resume and I also was able to learn networking skills to help let others know about my skills and to get more involved to apply some of my skills in a real-world environment.
