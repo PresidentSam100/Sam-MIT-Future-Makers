@@ -1,7 +1,7 @@
 # Sam-MIT-Future-Makers
 
 - [Responses](#responses)
-- [Day 1] (#Day 1)
+- [Day 1](#Day 1)
 
 ## Responses
 #### Day 1 (July 6th, 2021)
