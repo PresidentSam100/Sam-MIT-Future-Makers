@@ -35,7 +35,9 @@ Observation: Something interesting I discovered is that TensorFlow is constantly
 
 #### Day 8 (July 13th, 2021)
 
-I learned about Neural Networks and its building blocks and how it relates to the human brain and how it can be used to predict how most humans would try and behave.
+Reflect: I had already had some idea on what activation functions were like
+
+Lesson: I learned about Neural Networks and its building blocks and how it relates to the human brain and how it can be used to predict how most humans would try and behave. Neural networks
 
 #### Day 9 (July 14th, 2021)
 
@@ -45,12 +47,60 @@ I learned about convolutional neural networks and how it's used for images since
 
 I learned about the types of biases and considerations for even the most non-biased of AI algorithms because they might favor certain results over another and how we can spot and respond to such biases.
 
+#### Day 11 (July 16th, 2021)
+
+Reflection: I learned about the types of biases and considerations for even the most non-biased of AI algorithms because they might favor certain results over another and how we can spot and respond to such biases.
+
+Lesson:
+
+#### Day 14 (July 19th, 2021)
+
+Reflection: 
+
+Lesson:
+
 #### Day 15 (July 20th, 2021)
 
 I listened to Daniel Ranallo discuss his view on the importance of Artificial Intelligence and Machine Learning and realized the possibilities and growth of such a field in the future where technology is becoming increasingly important and will guide much of our lives.
 
+#### Day 16 (July 21th, 2021)
+
+Reflection:
+
+Lesson:
+
 #### Day 17 (July 22nd, 2021)
 I learned about image classification and some of the tools that could be used but also encountered and learned some significant challenges that were possible with image classification such as the illumination or viewpoint variation that would make it harder.
 
+#### Day 18 (July 23rd, 2021)
+
+Reflection:
+
+Lesson:
+
+#### Day 21 (July 26th, 2021)
+
+Reflection:
+
+Lesson:
+
 #### Day 22 (July 27th, 2021)
 I was able to get a grasp on building my profile and resume and I also was able to learn networking skills to help let others know about my skills and to get more involved to apply some of my skills in a real-world environment where I would be working on a project with a team.
+
+#### Day 23 (July 28th, 2021)
+
+Reflection:
+
+Lesson:
+
+#### Day 24 (July 29th, 2021)
+
+Reflection:
+
+Lesson:
+
+#### Day 25 (July 30th, 2021)
+
+Reflection:
+
+Lesson:
