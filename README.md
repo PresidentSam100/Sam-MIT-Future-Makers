@@ -8,10 +8,10 @@
 
 #### Day 0 (July 5th, 2021)
 
-Reflect: I was introduced to the program and had to setup a Github account and downloaded other files that included the curriculum and the schedule for the program. I was also put into a group with mentor Kevin Walsh and teammates Diya Jim, Alyssa Tang, Sahana Sreeram, and Jack Tan.
+Reflect: I was introduced to the program and had to setup a Github account and downloaded other files that included the curriculum and the schedule for the program. I also took part in a get to know each other day where all the students of the program would introduce themselves and get to know everyone before it officially starts.
 
 #### Day 1 (July 6th, 2021)
-Reflect: I'm excited to expand my skills in Python and use some AI knowledge to work on a project with my group. I hope to make use of these skills when developing projects for the Create-A-Thon during the summer.
+Reflect: I'm excited to expand my skills in Python and use some AI knowledge to work on a project with my group. My group I included mentor Kevin Walsh and teammates Diya Jim, Alyssa Tang, Sahana Sreeram, Jack Tan, and myself. I hope to make use of these skills when developing projects for the Create-A-Thon during the summer.
 
 Lessons: I don't have any specific skills that I want to learn, but I want to get an idea of the AI field and getting to know about this during the summer.
 
@@ -95,27 +95,48 @@ Reflection:
 Lesson:
 
 #### Day 22 (July 27th, 2021)
-I was able to get a grasp on building my profile and resume and I also was able to learn networking skills to help let others know about my skills and to get more involved to apply some of my skills in a real-world environment where I would be working on a project with a team.
+Reflection: I was able to get a grasp on building my profile and resume and I also was able to learn networking skills to help let others know about my skills and to get more involved to apply some of my skills in a real-world environment where I would be working on a project with a team.
+
+Lesson: 
 
 #### Day 23 (July 28th, 2021)
+Reflection: I learned about Natural Language Processing (NLP) which is the study of comptational treatment of the human language. I was also able to improve upon some of the code that I had written in the past few days in preparation for the upcoming Create-a-thon.
 
-Reflection:
-
-Lesson:
+Lesson: NLP has many practical applications including speech recognition, translation between languages, and prediction of future words. In order to preprocess data, NPL can convert text into an encoded vetor or can geneerate clean ASCII text or can use lemmataization.
 
 #### Day 24 (July 29th, 2021)
 
-Reflection:
+Reflection: I listened to Erica Greene and her webinar on Machine Learning and its increasing use in tech companies. I also explored the topic of Computer Vision and used that topic on that days's project where I analyzed images and determined its meaning and application in the field of AI.
 
-Lesson:
+Lesson: I learned how machines can read one's emotions by simply looking at a person's face and listened to a TED Talk given by Rana El Kaliouby on implementing emotion detection in my project.
 
 #### Day 25 (July 30th, 2021)
 Reflection: I gained an understanding of the entrepreneurial mindset for the Create-a-thon that will take place within the last two weeks of this program. I listened to speaker Carly Chase and her advice on taking such an active role by coming up with a plan, and determining many steps and goals before going on to design the actual product.
 
-Lesson: Even though I didn't learn any new deep learning concepts that weren't covered in the previous days, I had the time to use this day to catch up on any past assignments and improve my Github and make any necessary updates to my past code right before the Create-a-thon
+Lesson: Even though I didn't learn any new deep learning concepts that weren't covered in the previous days, I had the time to use this day to catch up on any past assignments and improve my Github and make any necessary updates to my past code right before the Create-a-thon.
 
 ## Create-a-thon
 
 ### Week 5
 
+#### Day 28 (August 2nd, 2021)
+
+#### Day 29 (August 3rd, 2021)
+
+#### Day 30 (August 4th, 2021)
+
+#### Day 31 (August 5th, 2021)
+
+#### Day 32 (August 6th, 2021)
+
 ### Week 6
+
+#### Day 35 (August 9th, 2021)
+
+#### Day 36 (August 10th, 2021)
+
+#### Day 37 (August 11th, 2021)
+
+#### Day 38 (August 12th, 2021)
+
+#### Day 39 (August 13th, 2021)
