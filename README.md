@@ -2,7 +2,14 @@
 
 - [Responses](#responses)
 
-## Responses
+## Deep Learning Curriculum Responses
+
+### Week 1
+
+#### Day 0 (July 5th, 2021)
+
+Reflect:
+
 #### Day 1 (July 6th, 2021)
 Reflect: I'm excited to expand my skills in Python and use some AI knowledge to work on a project with my group. I hope to make use of these skills when developing projects for the Create-A-Thon during the summer.
 
@@ -25,8 +32,9 @@ Lesson: One real-world problem that is common especially with technology is the 
 
 Dataset: One dataset I found from Kaggle demonstrates how poor password safety can be a problem (https://www.kaggle.com/wjburns/common-password-list-rockyoutxt)
 
-#### Day 7 (July 12th, 2021)
+### Week 2
 
+#### Day 7 (July 12th, 2021)
 Reflect: I learned about Neural Networks and its building blocks and how it relates to the human brain and how it can be used to predict how most humans would try and behave. I also learned more about the Tensorflow, Keras, and Pandas libraries.
 
 Lesson: Tensors store data in a way similar to matrices but can be any dimension, unlike matrices which are 2 dimensional. Tensors can be scalar (0 dimensions), vector (1 dimension), matrix (2 dimensions), or anything greater. However, most tensors are generally used with more dimensions.
@@ -34,7 +42,6 @@ Lesson: Tensors store data in a way similar to matrices but can be any dimension
 Observation: Something interesting I discovered is that TensorFlow is constantly updating and new features can make older ones obsolete. In addition, there were many different functions that each library can do such as creating a graph of data or creating a simple neural network.
 
 #### Day 8 (July 13th, 2021)
-
 Reflect: I had already had some idea on what activation functions were like
 
 Lesson: I learned about Neural Networks and its building blocks and how it relates to the human brain and how it can be used to predict how most humans would try and behave. Neural networks
@@ -48,10 +55,11 @@ I learned about convolutional neural networks and how it's used for images since
 I learned about the types of biases and considerations for even the most non-biased of AI algorithms because they might favor certain results over another and how we can spot and respond to such biases.
 
 #### Day 11 (July 16th, 2021)
-
 Reflection: I learned about the types of biases and considerations for even the most non-biased of AI algorithms because they might favor certain results over another and how we can spot and respond to such biases.
 
 Lesson:
+
+### Week 3
 
 #### Day 14 (July 19th, 2021)
 
@@ -78,6 +86,8 @@ Reflection:
 
 Lesson:
 
+### Week 4
+
 #### Day 21 (July 26th, 2021)
 
 Reflection:
@@ -100,7 +110,12 @@ Reflection:
 Lesson:
 
 #### Day 25 (July 30th, 2021)
+Reflection: I gained an understanding of the entrepreneurial mindset for the Create-a-thon that will take place within the last two weeks of this program. I listened to speaker Carly Chase and her advice on taking such an active role by coming up with a plan, and determining many steps and goals before going on to design the actual product.
 
-Reflection:
+Lesson: Even though I didn't learn any new deep learning concepts that weren't covered in the previous days, I had the time to use this day to catch up on any past assignments and improve my Github and make any necessary updates to my past code right before the Create-a-thon
 
-Lesson:
+## Create-a-thon
+
+### Week 5
+
+### Week 6
