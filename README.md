@@ -1,6 +1,6 @@
 # Sam-MIT-Future-Makers
 
-- [Responses](#responses)
+- [Deep Learning Curriculum Responses](#deep-learning-curriculum-responses)
 
 ## Deep Learning Curriculum Responses
 
@@ -8,7 +8,7 @@
 
 #### Day 0 (July 5th, 2021)
 
-Reflect:
+Reflect: I was introduced to the program and had to setup a Github account and downloaded other files that included the curriculum and the schedule for the program. I was also put into a group with mentor Kevin Walsh and teammates Diya Jim, Alyssa Tang, Sahana Sreeram, and Jack Tan.
 
 #### Day 1 (July 6th, 2021)
 Reflect: I'm excited to expand my skills in Python and use some AI knowledge to work on a project with my group. I hope to make use of these skills when developing projects for the Create-A-Thon during the summer.
