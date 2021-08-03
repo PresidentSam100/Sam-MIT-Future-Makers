@@ -153,6 +153,9 @@ Lesson: Even though I didn't learn any new deep learning concepts that weren't c
 ### Week 5
 
 #### Day 28 (August 2nd, 2021)
+Progress: My team brainstormed ideas for the topic of our deep learning model.
+
+Computational Talk: I listened to MIT student Nicole Pang give a talk regarding implementing what the team has learned during your Create-a-thon project ideation, planning and execution.
 
 #### Day 29 (August 3rd, 2021)
 
