@@ -98,17 +98,17 @@ I learned about the differences between a convolutional neural network (CNN) and
 
 Reflection: 
 
-Lesson:
+Lesson: I learned about loss functions which primarily aid in portraying the error of the model between the predicted value and actual value. I also learned that the mean squared error loss is similar to a least-squares regression line in statistics as they both use some methods in trying to minimize the effect of incorrect or otherwise less accurate predictions for data.
 
 #### Day 15 (July 20th, 2021)
 
-I listened to Daniel Ranallo discuss his view on the importance of Artificial Intelligence and Machine Learning and realized the possibilities and growth of such a field in the future where technology is becoming increasingly important and will guide much of our lives.
+Reflection: I listened to Daniel Ranallo discuss his view on the importance of Artificial Intelligence and Machine Learning and realized the possibilities and growth of such a field in the future where technology is becoming increasingly important and will guide much of our lives.
 
 #### Day 16 (July 21th, 2021)
 
 Reflection:
 
-Lesson:
+Lesson: 
 
 #### Day 17 (July 22nd, 2021)
 I learned about image classification and some of the tools that could be used but also encountered and learned some significant challenges that were possible with image classification such as the illumination or viewpoint variation that would make it harder.
@@ -117,7 +117,7 @@ I learned about image classification and some of the tools that could be used bu
 
 Reflection:
 
-Lesson:
+Lesson: I learned about overfitting which is when the model is trained too much and the error cannot be narrowed down or analyzed with high accuracy. I also learned some ways that overfitting could be harmful such as when the data is merely memorized and not effectively used to make accurate predictions.
 
 ### Week 4
 
@@ -125,12 +125,12 @@ Lesson:
 
 Reflection:
 
-Lesson:
+Lesson: I learned about autoencoders which are neural networks that learn data unsupervised. They can also be used to correct certain data that has been corrupted or even denoise images. For example, it could show a very blurry letter or number and then determine the character that was blurred with high accuracy.
 
 #### Day 22 (July 27th, 2021)
 Reflection: I was able to get a grasp on building my profile and resume and I also was able to learn networking skills to help let others know about my skills and to get more involved to apply some of my skills in a real-world environment where I would be working on a project with a team.
 
-Lesson: 
+Lesson: I learned about affective computing which attempts to use machine learning algorithms to identify and analyze human emotions. I feel that this would be very important in my future projects because emotions are a key feature in recognizing the user and would feel that it could help others who are not as good in processing or understanding certain emotions.
 
 #### Day 23 (July 28th, 2021)
 Reflection: I learned about Natural Language Processing (NLP) which is the study of comptational treatment of the human language. I was also able to improve upon some of the code that I had written in the past few days in preparation for the upcoming Create-a-thon.
@@ -138,7 +138,6 @@ Reflection: I learned about Natural Language Processing (NLP) which is the study
 Lesson: NLP has many practical applications including speech recognition, translation between languages, and prediction of future words. In order to preprocess data, NPL can convert text into an encoded vetor or can geneerate clean ASCII text or can use lemmataization.
 
 #### Day 24 (July 29th, 2021)
-
 Reflection: I listened to Erica Greene and her webinar on Machine Learning and its increasing use in tech companies. I also explored the topic of Computer Vision and used that topic on that days's project where I analyzed images and determined its meaning and application in the field of AI.
 
 Lesson: I learned how machines can read one's emotions by simply looking at a person's face and listened to a TED Talk given by Rana El Kaliouby on implementing emotion detection in my project.
