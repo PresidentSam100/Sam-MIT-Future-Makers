@@ -95,35 +95,34 @@ I learned about the differences between a convolutional neural network (CNN) and
 ### Week 3
 
 #### Day 14 (July 19th, 2021)
-
-Reflection: 
+Reflection: I found that several math topics that were learned in high school or even college could be applied to machine learning in some way especially those used in statistics with the loss functions.
 
 Lesson: I learned about loss functions which primarily aid in portraying the error of the model between the predicted value and actual value. I also learned that the mean squared error loss is similar to a least-squares regression line in statistics as they both use some methods in trying to minimize the effect of incorrect or otherwise less accurate predictions for data.
 
 #### Day 15 (July 20th, 2021)
+Reflection: I listened to vice president of engineering at Principles, Daniel Ranallo, discuss his view on the importance of Artificial Intelligence and Machine Learning and realized the possibilities and growth of such a field in the future where technology is becoming increasingly important and will guide much of our lives.
 
-Reflection: I listened to Daniel Ranallo discuss his view on the importance of Artificial Intelligence and Machine Learning and realized the possibilities and growth of such a field in the future where technology is becoming increasingly important and will guide much of our lives.
+Lesson: I learned about ReLU functions which are mainly used for speech recognition and natural language processing. ReLU functions are more efficient and faster than other activiation functions and are similar to the way neurons work in the brain.
 
 #### Day 16 (July 21th, 2021)
+Reflection: Factors such as exclusion, over-representation, and biased labeling all can influence the predictions that a machine learning model makes. Therefore, it is important to consider the ethics when designing a model since no such model will be free of any bias or have any objective truth.
 
-Reflection:
-
-Lesson: 
+Lesson: I learned about the ethics of AI and why certain companies designed their AI models in their particular manner. I also looked back on some of the previous curriculum topics to understand how they relate to AI ethics.
 
 #### Day 17 (July 22nd, 2021)
-I learned about image classification and some of the tools that could be used but also encountered and learned some significant challenges that were possible with image classification such as the illumination or viewpoint variation that would make it harder.
+Reflection: Senior research scientist, Jennifer Chu-Carrol, gave a talk on interactive and collaborative problem solving. The main takeaways were that communication with the team was crucial in having the final project to work and that an effective plan before designing the actual product is essentially mandatory.
+
+Lesson: I learned about image classification and some of the tools that could be used but also encountered and learned some significant challenges that were possible with image classification such as the illumination or viewpoint variation that would make it harder.
 
 #### Day 18 (July 23rd, 2021)
+Reflection: I learned some ways that overfitting could be harmful such as when the data is merely memorized and not effectively used to make accurate predictions.
 
-Reflection:
-
-Lesson: I learned about overfitting which is when the model is trained too much and the error cannot be narrowed down or analyzed with high accuracy. I also learned some ways that overfitting could be harmful such as when the data is merely memorized and not effectively used to make accurate predictions.
+Lesson: I learned about overfitting which is when the model is trained too much and the error cannot be narrowed down or analyzed with high accuracy. 
 
 ### Week 4
 
 #### Day 21 (July 26th, 2021)
-
-Reflection:
+Reflection: I modified and improved on some of my designs of previous models to increase their accuracy or make their learning techniques more efficient. I also began experimenting on some of the curriculum topics to have an idea on which topics would be best for the create-a-thon.
 
 Lesson: I learned about autoencoders which are neural networks that learn data unsupervised. They can also be used to correct certain data that has been corrupted or even denoise images. For example, it could show a very blurry letter or number and then determine the character that was blurred with high accuracy.
 
